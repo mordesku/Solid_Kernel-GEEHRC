@@ -1,6 +1,6 @@
 VERSION = 3
 PATCHLEVEL = 4
-SUBLEVEL = 106
+SUBLEVEL = 107
 EXTRAVERSION = _Solid_Kernel_V1.8GEEHRC-LP
 NAME = Saber-toothed Squirrel
 
